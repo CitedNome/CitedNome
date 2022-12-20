@@ -15,6 +15,8 @@ I mainly code costumized Discord Bots for private and public servers, using disc
 ### Skills
 - Python
 - Linux
+- HTML
+- CSS
 - LSL
 - GDevelop
 - Ren'Py
