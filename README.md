@@ -14,17 +14,17 @@ I mainly code costumized Discord Bots for private and public servers, using disc
 
 ### Skills
 - Python
-- Linux
+- JavaScript
 - HTML
 - CSS
+- Linux
+- Mardown
 - LSL
 - GDevelop
 - Ren'Py
-- MarkDown
-- JSON
 ***
 
 ### Contacts:
-- Discord: Zoldie#4848
+- Discord: citednome
 - [Steam](https://steamcommunity.com/profiles/76561198870819840/): CitedNome
 - [GitHub](https://github.com/CitedNome): CitedNome
