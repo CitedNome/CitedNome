@@ -7,9 +7,9 @@ I mainly code costumized Discord Bots for private and public servers, using disc
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CitedNome&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<!---
 [![CitedNome's GitHub stats](https://github-readme-stats.vercel.app/api?username=CitedNome&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 ***
 
 ### Skills
