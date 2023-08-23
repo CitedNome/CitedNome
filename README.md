@@ -18,7 +18,7 @@ I mainly code costumized Discord Bots for private and public servers, using disc
 - HTML
 - CSS
 - Linux
-- Mardown
+- Markdown
 - LSL
 - GDevelop
 - Ren'Py
