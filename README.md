@@ -20,7 +20,6 @@ I mainly code costumized Discord Bots for private and public servers, using disc
 - Linux
 - Markdown
 - LSL
-- GDevelop
 - Ren'Py
 ***
 
